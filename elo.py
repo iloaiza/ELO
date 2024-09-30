@@ -47,3 +47,6 @@ else:
         add_set(p1_name, p2_name, score_tuple)
 
     display_players()
+
+with open('README.md', 'w') as sys.stdout:
+    display_players()
