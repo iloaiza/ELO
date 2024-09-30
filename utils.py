@@ -195,12 +195,13 @@ def display_players():
         all_elos.append(pp.ranking)
     order = np.argsort(all_elos)[::-1]
 
-    print("##############################################################")
-    print("####### Showing saved list of players and ELO rankings #######")
     print("##############################################################\n")
+    print("####### Showing saved list of players and ELO rankings #######\n")
+    print("##############################################################\n\n")
 
     for ii in range(len(all_elos)):
         print(ALL_PLAYERS[order[ii]])
+        print("\n")
 
     print('\n--------------------------------------------------------------')
 
