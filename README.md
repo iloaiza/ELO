@@ -5,13 +5,13 @@
 ##############################################################
 
 
-Danial - 1293 (7 games played)
+Danial - 1264 (10 games played)
 
 
-Ignacio - 1213 (1 games played)
+Ignacio - 1214 (3 games played)
 
 
-Jay - 1163 (3 games played)
+Jay - 1191 (6 games played)
 
 
 Guillermo - 1131 (5 games played)
