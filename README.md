@@ -8,10 +8,10 @@
 Juan_Miguel - 1299 (7 games played)
 
 
-Ignacio - 1243 (5 games played)
+Danial - 1235 (30 games played)
 
 
-Danial - 1212 (24 games played)
+Ignacio - 1221 (11 games played)
 
 
 Jay - 1193 (10 games played)
