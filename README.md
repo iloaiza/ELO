@@ -8,22 +8,25 @@
 Juan_Miguel - 1299
 
 
-Danial - 1235
+Danial - 1291
 
 
 Ignacio - 1221
 
 
-Jay - 1193
+Jay - 1191
 
 
 Alfredo - 1171
 
 
+Austin - 1151
+
+
 Robert - 1143
 
 
-Guillermo - 1139
+Guillermo - 1134
 
 
 
