@@ -5,19 +5,22 @@
 ##############################################################
 
 
-Danial - 1303
-
-
 Juan_Miguel - 1299
 
 
+Javier - 1269
+
+
+Danial - 1264
+
+
+Christian - 1245
+
+
+Andrey - 1236
+
+
 Jay - 1230
-
-
-Ignacio - 1221
-
-
-Jack - 1200
 
 
 Mehrdad - 1176
@@ -29,7 +32,13 @@ Alfredo - 1171
 David - 1167
 
 
+Jack - 1161
+
+
 Austin - 1151
+
+
+Ignacio - 1148
 
 
 Robert - 1143
