@@ -11,13 +11,13 @@ Juan_Miguel - 1299
 Javier - 1269
 
 
-Danial - 1248
+Andrey - 1247
 
 
 Christian - 1245
 
 
-Andrey - 1236
+Danial - 1239
 
 
 Jay - 1230
@@ -32,7 +32,7 @@ Alfredo - 1171
 David - 1167
 
 
-Jack - 1161
+Jack - 1159
 
 
 Guillermo - 1157
