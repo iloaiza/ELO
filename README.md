@@ -11,7 +11,7 @@ Juan_Miguel - 1299
 Javier - 1269
 
 
-Danial - 1264
+Danial - 1248
 
 
 Christian - 1245
@@ -35,6 +35,9 @@ David - 1167
 Jack - 1161
 
 
+Guillermo - 1157
+
+
 Austin - 1151
 
 
@@ -42,9 +45,6 @@ Ignacio - 1148
 
 
 Robert - 1143
-
-
-Guillermo - 1141
 
 
 
