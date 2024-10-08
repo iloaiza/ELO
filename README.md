@@ -8,19 +8,19 @@
 Juan_Miguel - 1299
 
 
+Andrey - 1287
+
+
 Javier - 1269
 
 
-Andrey - 1247
+Danial - 1260
 
 
 Christian - 1245
 
 
-Danial - 1239
-
-
-Jay - 1230
+Jay - 1218
 
 
 Mehrdad - 1176
@@ -38,13 +38,13 @@ Jack - 1159
 Guillermo - 1157
 
 
-Austin - 1151
-
-
 Ignacio - 1148
 
 
 Robert - 1143
+
+
+Austin - 1101
 
 
 
