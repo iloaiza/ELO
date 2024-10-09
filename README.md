@@ -14,13 +14,13 @@ Juan_Miguel - 1299
 Javier - 1269
 
 
-Danial - 1256
+Danial - 1257
+
+
+Andrey - 1243
 
 
 Jay - 1218
-
-
-Andrey - 1212
 
 
 Guillermo - 1192
@@ -41,10 +41,10 @@ Ignacio - 1148
 Robert - 1143
 
 
-Alfredo - 1124
-
-
 Austin - 1101
+
+
+Alfredo - 1092
 
 
 
