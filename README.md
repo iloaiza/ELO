@@ -5,22 +5,22 @@
 ##############################################################
 
 
+Christian - 1336
+
+
 Juan_Miguel - 1299
-
-
-Andrey - 1287
-
-
-Danial - 1273
 
 
 Javier - 1269
 
 
-Christian - 1245
+Danial - 1256
 
 
 Jay - 1218
+
+
+Andrey - 1212
 
 
 Guillermo - 1192
