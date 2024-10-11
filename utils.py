@@ -29,7 +29,7 @@ class player:
         self.player_number = player_number
 
     def __repr__(self):
-        my_string = f"{self.name} - {self.ranking:.0f} ({self.games} games played)"
+        my_string = f"{self.name} - {self.ranking:.0f}"#" ({self.games} games played)"
         return my_string
 
     def __str__(self):
@@ -102,17 +102,34 @@ def add_set(player_1, player_2, wins_tuple):
     print(f"Adding game of {player_1.name} vs. {player_2.name} with score {wins_tuple[0]}-{wins_tuple[1]}")
     print(f"Starting {player_1.name} ELO = {player_1.ranking}")
     print(f"Starting {player_2.name} ELO = {player_2.ranking}")
-    for gm in GAMES:
-        if gm.winner == player_1:
-            res1 = 1
-            res2 = 0
-        else:
-            res1 = 0
-            res2 = 1
-        new_p1_elo = calculate_elo(player_1.ranking, player_2.ranking, res1)
-        new_p2_elo = calculate_elo(player_2.ranking, player_1.ranking, res2)
+    tot_games = sum(wins_tuple)
+    tied_games = max(wins_tuple) - min(wins_tuple)
+    for ii in range(tied_games):
+        new_p1_elo = calculate_elo(player_1.ranking, player_2.ranking, 1)
+        new_p2_elo = calculate_elo(player_2.ranking, player_1.ranking, 0)
         player_1.ranking = new_p1_elo
         player_2.ranking = new_p2_elo
+
+        new_p1_elo = calculate_elo(player_1.ranking, player_2.ranking, 0)
+        new_p2_elo = calculate_elo(player_2.ranking, player_1.ranking, 1)
+        player_1.ranking = new_p1_elo
+        player_2.ranking = new_p2_elo
+
+    p1_on_top = max(max(wins_tuple) - wins_tuple[1], 0)
+    for ii in range(p1_on_top):
+        new_p1_elo = calculate_elo(player_1.ranking, player_2.ranking, 1)
+        new_p2_elo = calculate_elo(player_2.ranking, player_1.ranking, 0)
+        player_1.ranking = new_p1_elo
+        player_2.ranking = new_p2_elo
+
+    p2_on_top = max(max(wins_tuple) - wins_tuple[0], 0)
+    for ii in range(p2_on_top):
+        new_p1_elo = calculate_elo(player_1.ranking, player_2.ranking, 0)
+        new_p2_elo = calculate_elo(player_2.ranking, player_1.ranking, 1)
+        player_1.ranking = new_p1_elo
+        player_2.ranking = new_p2_elo
+
+    print(f"\nAdded {tied_games} tied games, {p1_on_top} extra for {player_1.name} and {p2_on_top} for {player_2.name}\n")
     print(f"Final {player_1.name} ELO = {player_1.ranking}")
     print(f"Final {player_2.name} ELO = {player_2.ranking}")
     ALL_SETS.append(new_set)
@@ -195,10 +212,8 @@ def display_players():
         all_elos.append(pp.ranking)
     order = np.argsort(all_elos)[::-1]
 
-    print("##############################################################\n")
-    print("####### Showing saved list of players and ELO rankings #######\n")
-    print("##############################################################\n\n")
-
+    print("## LIST OF PLAYERS AND ELO RANKINGS\n\n")
+    
     for ii in range(len(all_elos)):
         print(ALL_PLAYERS[order[ii]])
         print("\n")
