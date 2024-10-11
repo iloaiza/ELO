@@ -8,22 +8,22 @@
 Christian - 1336
 
 
+Guillermo - 1334
+
+
 Juan_Miguel - 1299
 
 
-Guillermo - 1296
-
-
 Javier - 1252
-
-
-Danial - 1248
 
 
 Andrey - 1243
 
 
 Fabian - 1217
+
+
+Danial - 1210
 
 
 Mehrdad - 1176
