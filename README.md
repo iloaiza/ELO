@@ -20,10 +20,10 @@ Javier - 1252
 Andrey - 1243
 
 
+Danial - 1231
+
+
 Fabian - 1217
-
-
-Danial - 1210
 
 
 Mehrdad - 1176
@@ -35,16 +35,16 @@ David - 1167
 Jack - 1159
 
 
+Jay - 1153
+
+
 Robert - 1143
 
 
-Jay - 1137
-
-
-Ignacio - 1134
-
-
 Austin - 1101
+
+
+Ignacio - 1097
 
 
 Alfredo - 1092
