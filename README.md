@@ -8,16 +8,19 @@
 Christian - 1336
 
 
-Javier - 1314
-
-
 Juan_Miguel - 1299
+
+
+Javier - 1252
 
 
 Danial - 1248
 
 
 Andrey - 1243
+
+
+Fabian - 1217
 
 
 Ignacio - 1202
@@ -36,9 +39,6 @@ David - 1167
 
 
 Jack - 1159
-
-
-Fabian - 1155
 
 
 Robert - 1143
