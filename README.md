@@ -11,6 +11,9 @@ Christian - 1336
 Juan_Miguel - 1299
 
 
+Guillermo - 1296
+
+
 Javier - 1252
 
 
@@ -23,16 +26,7 @@ Andrey - 1243
 Fabian - 1217
 
 
-Ignacio - 1202
-
-
-Guillermo - 1196
-
-
 Mehrdad - 1176
-
-
-Jay - 1170
 
 
 David - 1167
@@ -42,6 +36,12 @@ Jack - 1159
 
 
 Robert - 1143
+
+
+Jay - 1137
+
+
+Ignacio - 1134
 
 
 Austin - 1101
