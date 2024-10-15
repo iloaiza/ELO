@@ -7,7 +7,7 @@ Guillermo - 1352
 Christian - 1336
 
 
-Juan_Miguel - 1299
+Juan Miguel - 1299
 
 
 Danial - 1288

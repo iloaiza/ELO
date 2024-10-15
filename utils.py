@@ -29,7 +29,8 @@ class player:
         self.player_number = player_number
 
     def __repr__(self):
-        my_string = f"{self.name} - {self.ranking:.0f}"#" ({self.games} games played)"
+        pretty_name = self.name.replace("_", " ")
+        my_string = f"{pretty_name} - {self.ranking:.0f}"#" ({self.games} games played)"
         return my_string
 
     def __str__(self):
