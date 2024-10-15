@@ -103,7 +103,7 @@ def add_set(player_1, player_2, wins_tuple):
     print(f"Starting {player_1.name} ELO = {player_1.ranking}")
     print(f"Starting {player_2.name} ELO = {player_2.ranking}")
     tot_games = sum(wins_tuple)
-    tied_games = max(wins_tuple) - min(wins_tuple)
+    tied_games = min(wins_tuple)
     for ii in range(tied_games):
         new_p1_elo = calculate_elo(player_1.ranking, player_2.ranking, 1)
         new_p2_elo = calculate_elo(player_2.ranking, player_1.ranking, 0)
@@ -115,14 +115,14 @@ def add_set(player_1, player_2, wins_tuple):
         player_1.ranking = new_p1_elo
         player_2.ranking = new_p2_elo
 
-    p1_on_top = max(max(wins_tuple) - wins_tuple[1], 0)
+    p1_on_top = max((wins_tuple[0] - tied_games, 0))
     for ii in range(p1_on_top):
         new_p1_elo = calculate_elo(player_1.ranking, player_2.ranking, 1)
         new_p2_elo = calculate_elo(player_2.ranking, player_1.ranking, 0)
         player_1.ranking = new_p1_elo
         player_2.ranking = new_p2_elo
 
-    p2_on_top = max(max(wins_tuple) - wins_tuple[0], 0)
+    p2_on_top = max((wins_tuple[1] - tied_games, 0))
     for ii in range(p2_on_top):
         new_p1_elo = calculate_elo(player_1.ranking, player_2.ranking, 0)
         new_p2_elo = calculate_elo(player_2.ranking, player_1.ranking, 1)
