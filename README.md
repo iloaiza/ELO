@@ -1,7 +1,7 @@
 ## LIST OF PLAYERS AND ELO RANKINGS
 
 
-Guillermo - 1352
+Guillermo - 1388
 
 
 Christian - 1336
@@ -10,7 +10,7 @@ Christian - 1336
 Juan Miguel - 1299
 
 
-Danial - 1288
+Danial - 1252
 
 
 Javier - 1252
