@@ -1,23 +1,19 @@
-##############################################################
+## LIST OF PLAYERS AND ELO RANKINGS
 
-####### Showing saved list of players and ELO rankings #######
 
-##############################################################
+Guillermo - 1352
 
 
 Christian - 1336
 
 
-Guillermo - 1334
-
-
 Juan_Miguel - 1299
 
 
+Danial - 1288
+
+
 Javier - 1252
-
-
-Danial - 1243
 
 
 Andrey - 1243
@@ -38,16 +34,16 @@ Jack - 1159
 Robert - 1143
 
 
-Jay - 1141
-
-
 Austin - 1101
 
 
-Ignacio - 1097
-
-
 Alfredo - 1092
+
+
+Ignacio - 1092
+
+
+Jay - 1083
 
 
 
