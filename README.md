@@ -1,10 +1,10 @@
 ## LIST OF PLAYERS AND ELO RANKINGS
 
 
-Guillermo - 1388
-
-
 Christian - 1336
+
+
+Guillermo - 1336
 
 
 Juan Miguel - 1299
@@ -31,6 +31,9 @@ David - 1167
 Jack - 1159
 
 
+Ignacio - 1144
+
+
 Robert - 1143
 
 
@@ -38,9 +41,6 @@ Austin - 1101
 
 
 Alfredo - 1092
-
-
-Ignacio - 1092
 
 
 Jay - 1083
