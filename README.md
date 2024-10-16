@@ -10,7 +10,7 @@ Guillermo - 1336
 Juan Miguel - 1299
 
 
-Danial - 1252
+Danial - 1290
 
 
 Javier - 1252
@@ -26,6 +26,9 @@ Mehrdad - 1176
 
 
 David - 1167
+
+
+Daniel - 1163
 
 
 Jack - 1159
