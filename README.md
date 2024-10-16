@@ -4,13 +4,13 @@
 Christian - 1336
 
 
-Guillermo - 1336
+Danial - 1326
+
+
+Guillermo - 1299
 
 
 Juan Miguel - 1299
-
-
-Danial - 1290
 
 
 Javier - 1252
