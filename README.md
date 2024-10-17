@@ -4,7 +4,7 @@
 Guillermo - 1389
 
 
-Christian - 1336
+Christian - 1320
 
 
 Juan Miguel - 1299
@@ -13,10 +13,10 @@ Juan Miguel - 1299
 Danial - 1276
 
 
+Andrey - 1260
+
+
 Javier - 1252
-
-
-Andrey - 1243
 
 
 Fabian - 1217
