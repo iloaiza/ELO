@@ -22,7 +22,7 @@ Guillaume - 1254
 Andrey - 1252
 
 
-Danial - 1235
+Danial - 1228
 
 
 Fabian - 1203
@@ -43,7 +43,7 @@ Daniel - 1146
 Robert - 1143
 
 
-Guillermo - 1126
+Guillermo - 1132
 
 
 Jay - 1117
