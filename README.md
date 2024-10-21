@@ -1,25 +1,31 @@
 ## LIST OF PLAYERS AND ELO RANKINGS
 
 
-Guillermo - 1389
+Juan Miguel - 1388
 
 
-Christian - 1320
+Christian - 1352
 
 
-Juan Miguel - 1299
+Alberto - 1272
 
 
-Danial - 1276
+Resul - 1267
 
 
-Andrey - 1260
+Javier - 1266
 
 
-Javier - 1252
+Guillaume - 1254
 
 
-Fabian - 1217
+Andrey - 1252
+
+
+Danial - 1235
+
+
+Fabian - 1203
 
 
 Mehrdad - 1176
@@ -28,19 +34,22 @@ Mehrdad - 1176
 David - 1167
 
 
-Daniel - 1163
-
-
 Jack - 1159
+
+
+Daniel - 1146
 
 
 Robert - 1143
 
 
+Guillermo - 1126
+
+
+Jay - 1117
+
+
 Ignacio - 1104
-
-
-Jay - 1103
 
 
 Alfredo - 1092
