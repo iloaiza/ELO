@@ -4,7 +4,7 @@
 Juan Miguel - 1388
 
 
-Christian - 1352
+Christian - 1368
 
 
 Alberto - 1272
@@ -22,7 +22,7 @@ Guillaume - 1254
 Andrey - 1252
 
 
-Danial - 1228
+Danial - 1212
 
 
 Fabian - 1203
