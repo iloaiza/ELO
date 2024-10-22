@@ -7,7 +7,7 @@ Juan Miguel - 1388
 Christian - 1343
 
 
-Danial - 1279
+Danial - 1278
 
 
 Alberto - 1272
@@ -49,7 +49,7 @@ Jay - 1113
 Guillermo - 1112
 
 
-Ignacio - 1104
+Ignacio - 1105
 
 
 Alfredo - 1092
