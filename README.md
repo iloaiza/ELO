@@ -43,19 +43,19 @@ Daniel - 1146
 Robert - 1143
 
 
+Jay - 1113
+
+
 Guillermo - 1112
 
 
 Ignacio - 1104
 
 
-Jay - 1098
-
-
 Alfredo - 1092
 
 
-Austin - 1081
+Austin - 1066
 
 
 
