@@ -10,7 +10,7 @@ Christian - 1343
 Resul - 1328
 
 
-Danial - 1278
+Danial - 1281
 
 
 Alberto - 1272
@@ -25,7 +25,10 @@ Andrey - 1251
 Fabian - 1219
 
 
-Javier - 1190
+Javier - 1199
+
+
+Ozcan - 1187
 
 
 Mehrdad - 1176
