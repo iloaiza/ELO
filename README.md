@@ -7,16 +7,13 @@ Juan Miguel - 1388
 Christian - 1343
 
 
+Resul - 1328
+
+
 Danial - 1278
 
 
 Alberto - 1272
-
-
-Resul - 1267
-
-
-Javier - 1266
 
 
 Guillaume - 1254
@@ -25,7 +22,10 @@ Guillaume - 1254
 Andrey - 1251
 
 
-Fabian - 1203
+Fabian - 1219
+
+
+Javier - 1190
 
 
 Mehrdad - 1176
