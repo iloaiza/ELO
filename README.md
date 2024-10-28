@@ -1,10 +1,13 @@
 ## LIST OF PLAYERS AND ELO RANKINGS
 
 
-Juan Miguel - 1436
+Juan Miguel - 1464
 
 
 Christian - 1425
+
+
+Resul - 1337
 
 
 Andrey - 1308
@@ -13,13 +16,7 @@ Andrey - 1308
 Alberto - 1272
 
 
-Resul - 1263
-
-
-Guillaume - 1254
-
-
-Danial - 1248
+Danial - 1223
 
 
 Fabian - 1219
@@ -32,6 +29,9 @@ Ozcan - 1187
 
 
 Jay - 1182
+
+
+Guillaume - 1180
 
 
 Mehrdad - 1176
@@ -55,7 +55,7 @@ Robert - 1143
 Anton - 1138
 
 
-Ignacio - 1105
+Ignacio - 1115
 
 
 Alfredo - 1092
@@ -64,7 +64,7 @@ Alfredo - 1092
 Austin - 1066
 
 
-Guillermo - 1051
+Guillermo - 1037
 
 
 
