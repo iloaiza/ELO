@@ -16,7 +16,7 @@ Andrey - 1308
 Alberto - 1272
 
 
-Danial - 1223
+Danial - 1246
 
 
 Fabian - 1219
@@ -55,13 +55,13 @@ Robert - 1143
 Anton - 1138
 
 
-Ignacio - 1115
+Ignacio - 1118
 
 
 Alfredo - 1092
 
 
-Austin - 1066
+Austin - 1040
 
 
 Guillermo - 1037
