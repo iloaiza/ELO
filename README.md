@@ -4,34 +4,31 @@
 Juan Miguel - 1464
 
 
-Christian - 1425
+Andrey - 1418
 
 
-Resul - 1337
+Christian - 1370
 
 
-Andrey - 1308
+Resul - 1352
 
 
 Alberto - 1272
 
 
-Danial - 1246
+Fabian - 1253
 
 
-Fabian - 1233
+Danial - 1224
+
+
+Guillaume - 1224
+
+
+Javier - 1197
 
 
 Ozcan - 1187
-
-
-Javier - 1184
-
-
-Jay - 1182
-
-
-Guillaume - 1180
 
 
 Mehrdad - 1176
@@ -55,10 +52,13 @@ Robert - 1143
 Anton - 1138
 
 
-Ignacio - 1118
+Jay - 1125
 
 
 Alfredo - 1092
+
+
+Ignacio - 1051
 
 
 Austin - 1040
