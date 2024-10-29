@@ -19,13 +19,13 @@ Alberto - 1272
 Danial - 1246
 
 
-Fabian - 1219
-
-
-Javier - 1199
+Fabian - 1233
 
 
 Ozcan - 1187
+
+
+Javier - 1184
 
 
 Jay - 1182
