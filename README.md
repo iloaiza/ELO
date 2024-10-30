@@ -19,7 +19,7 @@ Alberto - 1272
 Fabian - 1253
 
 
-Danial - 1224
+Danial - 1225
 
 
 Guillaume - 1224
@@ -52,7 +52,7 @@ Robert - 1143
 Anton - 1138
 
 
-Jay - 1125
+Jay - 1124
 
 
 Alfredo - 1092
