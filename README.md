@@ -10,13 +10,13 @@ Resul - 1450
 Christian - 1430
 
 
-Andrey - 1369
+Andrey - 1372
 
 
 Alberto - 1272
 
 
-Danial - 1241
+Danial - 1231
 
 
 Javier - 1210
@@ -61,7 +61,7 @@ Jay - 1119
 Alfredo - 1092
 
 
-Ignacio - 1075
+Ignacio - 1082
 
 
 Austin - 1040
