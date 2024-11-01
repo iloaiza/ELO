@@ -1,7 +1,7 @@
 ## LIST OF PLAYERS AND ELO RANKINGS
 
 
-Juan Miguel - 1488
+Juan Miguel - 1493
 
 
 Resul - 1450
@@ -28,7 +28,7 @@ Ozcan - 1187
 Fabian - 1185
 
 
-Danial - 1182
+Danial - 1178
 
 
 Mehrdad - 1176
