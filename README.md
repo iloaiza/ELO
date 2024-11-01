@@ -10,16 +10,16 @@ Resul - 1450
 Christian - 1430
 
 
-Andrey - 1372
+Andrey - 1380
 
 
 Alberto - 1272
 
 
-Danial - 1231
+Javier - 1220
 
 
-Javier - 1210
+Danial - 1214
 
 
 Guillaume - 1193
