@@ -19,9 +19,6 @@ Alberto - 1272
 Javier - 1220
 
 
-Danial - 1214
-
-
 Guillaume - 1193
 
 
@@ -29,6 +26,9 @@ Ozcan - 1187
 
 
 Fabian - 1185
+
+
+Danial - 1182
 
 
 Mehrdad - 1176
@@ -43,31 +43,31 @@ Yurii - 1165
 Jack - 1159
 
 
+Guillermo - 1151
+
+
 Daniel - 1146
 
 
 Robert - 1143
 
 
-Steven - 1141
-
-
 Anton - 1138
 
 
-Jay - 1119
+Jay - 1127
 
 
 Alfredo - 1092
 
 
+Steven - 1084
+
+
 Ignacio - 1082
 
 
-Austin - 1040
-
-
-Guillermo - 1015
+Austin - 984
 
 
 
