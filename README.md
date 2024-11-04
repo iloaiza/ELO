@@ -4,7 +4,7 @@
 Juan Miguel - 1570
 
 
-Resul - 1477
+Resul - 1452
 
 
 Christian - 1353
@@ -13,7 +13,7 @@ Christian - 1353
 Andrey - 1310
 
 
-Xiaochen - 1275
+Xiaochen - 1299
 
 
 Alberto - 1272
