@@ -10,13 +10,13 @@ Resul - 1452
 Christian - 1353
 
 
+Danial - 1303
+
+
 Xiaochen - 1299
 
 
 Alberto - 1272
-
-
-Danial - 1268
 
 
 Andrey - 1258
@@ -40,9 +40,6 @@ Soran - 1178
 Mehrdad - 1176
 
 
-Guillermo - 1176
-
-
 David - 1167
 
 
@@ -62,6 +59,9 @@ Daniel - 1146
 
 
 Robert - 1143
+
+
+Guillermo - 1140
 
 
 Alfredo - 1092
