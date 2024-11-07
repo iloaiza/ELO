@@ -19,7 +19,7 @@ Xiaochen - 1299
 Alberto - 1272
 
 
-Danial - 1245
+Danial - 1266
 
 
 Javier - 1222
@@ -61,7 +61,7 @@ Daniel - 1146
 Robert - 1143
 
 
-Guillermo - 1140
+Guillermo - 1120
 
 
 Alfredo - 1092
