@@ -13,13 +13,13 @@ Christian - 1400
 Xiaochen - 1299
 
 
+Danial - 1273
+
+
 Alberto - 1272
 
 
 Andrey - 1262
-
-
-Danial - 1253
 
 
 Javier - 1222
@@ -64,10 +64,10 @@ Daniel - 1146
 Robert - 1143
 
 
-Jay - 1127
+Jay - 1110
 
 
-Guillermo - 1108
+Guillermo - 1105
 
 
 Alfredo - 1092
