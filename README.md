@@ -10,16 +10,16 @@ Resul - 1424
 Christian - 1400
 
 
+Andrey - 1309
+
+
 Xiaochen - 1299
-
-
-Danial - 1273
 
 
 Alberto - 1272
 
 
-Andrey - 1262
+Danial - 1255
 
 
 Javier - 1222
@@ -64,13 +64,13 @@ Daniel - 1146
 Robert - 1143
 
 
-Jay - 1110
-
-
-Guillermo - 1105
+Guillermo - 1095
 
 
 Alfredo - 1092
+
+
+Jay - 1092
 
 
 Anton - 1091
