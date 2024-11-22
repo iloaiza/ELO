@@ -25,10 +25,10 @@ Danial - 1245
 Guillaume - 1244
 
 
+Javier - 1218
+
+
 Jose - 1215
-
-
-Javier - 1193
 
 
 Ozcan - 1187
@@ -49,9 +49,6 @@ David - 1167
 Yurii - 1165
 
 
-Fabian - 1163
-
-
 Jack - 1159
 
 
@@ -65,6 +62,9 @@ Daniel - 1146
 
 
 Robert - 1143
+
+
+Fabian - 1138
 
 
 Jay - 1118
