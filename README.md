@@ -4,34 +4,37 @@
 Juan Miguel - 1618
 
 
-Resul - 1506
+Resul - 1485
 
 
-Christian - 1400
+Christian - 1426
+
+
+Danial - 1309
 
 
 Xiaochen - 1299
 
 
-Andrey - 1280
-
-
 Alberto - 1272
-
-
-Danial - 1245
 
 
 Guillaume - 1244
 
 
-Javier - 1218
+Andrey - 1229
+
+
+Fabian - 1224
 
 
 Jose - 1215
 
 
 Ozcan - 1187
+
+
+Javier - 1183
 
 
 Luiz - 1180
@@ -52,9 +55,6 @@ Yurii - 1165
 Jack - 1159
 
 
-Ignacio - 1156
-
-
 Mikhail - 1153
 
 
@@ -64,10 +64,10 @@ Daniel - 1146
 Robert - 1143
 
 
-Fabian - 1138
+Jay - 1110
 
 
-Jay - 1118
+Ignacio - 1096
 
 
 Alfredo - 1092
