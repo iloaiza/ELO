@@ -7,10 +7,10 @@ Juan Miguel - 1618
 Resul - 1485
 
 
-Christian - 1426
+Christian - 1422
 
 
-Danial - 1309
+Danial - 1312
 
 
 Xiaochen - 1299
