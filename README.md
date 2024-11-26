@@ -25,16 +25,16 @@ Guillaume - 1244
 Andrey - 1229
 
 
-Fabian - 1224
-
-
 Jose - 1215
 
 
+Javier - 1212
+
+
+Fabian - 1194
+
+
 Ozcan - 1187
-
-
-Javier - 1183
 
 
 Luiz - 1180
