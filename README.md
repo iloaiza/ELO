@@ -10,7 +10,7 @@ Resul - 1485
 Christian - 1422
 
 
-Danial - 1312
+Danial - 1336
 
 
 Xiaochen - 1299
@@ -22,16 +22,13 @@ Alberto - 1272
 Guillaume - 1244
 
 
-Andrey - 1229
+Fabian - 1240
+
+
+Andrey - 1240
 
 
 Jose - 1215
-
-
-Javier - 1212
-
-
-Fabian - 1194
 
 
 Ozcan - 1187
@@ -49,6 +46,9 @@ Mehrdad - 1176
 David - 1167
 
 
+Javier - 1166
+
+
 Yurii - 1165
 
 
@@ -64,25 +64,25 @@ Daniel - 1146
 Robert - 1143
 
 
-Jay - 1110
+Guillermo - 1123
 
 
-Ignacio - 1096
+Jay - 1092
 
 
 Alfredo - 1092
 
 
-Guillermo - 1087
-
-
 Steven - 1084
+
+
+Ignacio - 1056
 
 
 Anton - 1052
 
 
-Austin - 921
+Austin - 908
 
 
 
