@@ -43,9 +43,6 @@ Soran - 1178
 Mehrdad - 1176
 
 
-David - 1167
-
-
 Javier - 1166
 
 
@@ -61,10 +58,13 @@ Mikhail - 1153
 Daniel - 1146
 
 
+Guillermo - 1145
+
+
+David - 1145
+
+
 Robert - 1143
-
-
-Guillermo - 1123
 
 
 Jay - 1092
