@@ -67,19 +67,19 @@ Robert - 1143
 Guillermo - 1113
 
 
-Jay - 1105
-
-
 Alfredo - 1092
 
 
 Steven - 1084
 
 
+Jay - 1067
+
+
 Anton - 1052
 
 
-Ignacio - 1013
+Ignacio - 1052
 
 
 Austin - 886
