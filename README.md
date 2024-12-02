@@ -10,7 +10,7 @@ Resul - 1491
 Christian - 1390
 
 
-Danial - 1323
+Danial - 1360
 
 
 Javier - 1321
@@ -79,7 +79,7 @@ Steven - 1084
 Anton - 1052
 
 
-Ignacio - 1050
+Ignacio - 1013
 
 
 Austin - 886
