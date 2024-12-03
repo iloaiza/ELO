@@ -13,19 +13,19 @@ Christian - 1390
 Danial - 1360
 
 
-Javier - 1321
-
-
 Xiaochen - 1299
+
+
+Fabian - 1291
 
 
 Alberto - 1272
 
 
+Javier - 1271
+
+
 Andrey - 1242
-
-
-Fabian - 1240
 
 
 Guillaume - 1239
