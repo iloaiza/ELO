@@ -4,7 +4,7 @@
 Juan Miguel - 1544
 
 
-Resul - 1491
+Resul - 1493
 
 
 Christian - 1390
@@ -76,7 +76,7 @@ Jay - 1086
 Steven - 1084
 
 
-Ignacio - 1065
+Ignacio - 1063
 
 
 Anton - 1043
