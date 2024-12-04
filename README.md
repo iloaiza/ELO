@@ -10,7 +10,7 @@ Juan Miguel - 1544
 Christian - 1395
 
 
-Danial - 1310
+Danial - 1321
 
 
 Xiaochen - 1299
@@ -32,6 +32,9 @@ Jose - 1215
 
 
 Andrey - 1212
+
+
+Haoyu - 1189
 
 
 Ozcan - 1187
