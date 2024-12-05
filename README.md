@@ -4,13 +4,13 @@
 Juan Miguel - 1544
 
 
-Resul - 1522
+Resul - 1537
 
 
 Christian - 1395
 
 
-Danial - 1318
+Danial - 1303
 
 
 Xiaochen - 1299
