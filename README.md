@@ -10,6 +10,9 @@ Resul - 1522
 Christian - 1395
 
 
+Danial - 1318
+
+
 Xiaochen - 1299
 
 
@@ -17,9 +20,6 @@ Fabian - 1291
 
 
 Andrey - 1275
-
-
-Danial - 1273
 
 
 Alberto - 1272
@@ -53,6 +53,9 @@ Yurii - 1165
 
 
 Jack - 1159
+
+
+Alain - 1155
 
 
 Mikhail - 1153
