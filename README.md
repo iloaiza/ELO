@@ -1,10 +1,10 @@
 ## LIST OF PLAYERS AND ELO RANKINGS
 
 
+Resul - 1553
+
+
 Juan Miguel - 1544
-
-
-Resul - 1537
 
 
 Christian - 1395
@@ -85,7 +85,7 @@ Steven - 1084
 Anton - 1043
 
 
-Ignacio - 1024
+Ignacio - 1008
 
 
 Austin - 881
