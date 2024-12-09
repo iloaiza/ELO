@@ -10,7 +10,7 @@ Resul - 1553
 Christian - 1395
 
 
-Danial - 1361
+Danial - 1390
 
 
 Xiaochen - 1299
@@ -88,10 +88,10 @@ Alfredo - 1092
 Jay - 1062
 
 
-Ignacio - 1059
-
-
 Anton - 1043
+
+
+Ignacio - 1029
 
 
 Austin - 887
