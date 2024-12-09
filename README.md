@@ -1,7 +1,7 @@
 ## LIST OF PLAYERS AND ELO RANKINGS
 
 
-Juan Miguel - 1582
+Juan Miguel - 1606
 
 
 Resul - 1553
@@ -10,7 +10,7 @@ Resul - 1553
 Christian - 1395
 
 
-Danial - 1386
+Danial - 1361
 
 
 Xiaochen - 1299
@@ -70,25 +70,25 @@ Daniel - 1146
 David - 1145
 
 
+Guillermo - 1144
+
+
 Robert - 1143
 
 
 Ben - 1108
 
 
-Ignacio - 1107
-
-
 Steven - 1102
-
-
-Guillermo - 1095
 
 
 Alfredo - 1092
 
 
 Jay - 1062
+
+
+Ignacio - 1059
 
 
 Anton - 1043
