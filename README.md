@@ -7,10 +7,13 @@ Juan Miguel - 1606
 Resul - 1553
 
 
-Danial - 1428
-
-
 Christian - 1395
+
+
+Danial - 1355
+
+
+Javier - 1338
 
 
 Xiaochen - 1299
@@ -23,9 +26,6 @@ Alberto - 1272
 
 
 Andrey - 1269
-
-
-Javier - 1266
 
 
 Guillaume - 1239
