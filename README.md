@@ -22,10 +22,10 @@ Fabian - 1291
 Alberto - 1272
 
 
-Javier - 1271
-
-
 Andrey - 1269
+
+
+Javier - 1266
 
 
 Guillaume - 1239
@@ -91,7 +91,7 @@ Anton - 1043
 Jay - 1042
 
 
-Ignacio - 1026
+Ignacio - 1031
 
 
 Austin - 956
