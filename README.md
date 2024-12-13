@@ -4,10 +4,10 @@
 Juan Miguel - 1606
 
 
-Resul - 1553
+Resul - 1559
 
 
-Christian - 1395
+Christian - 1389
 
 
 Javier - 1338
