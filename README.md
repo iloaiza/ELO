@@ -10,10 +10,10 @@ Resul - 1538
 Christian - 1491
 
 
+Danial - 1366
+
+
 Javier - 1338
-
-
-Danial - 1335
 
 
 Xiaochen - 1299
@@ -76,9 +76,6 @@ Stepan - 1139
 Ignacio - 1110
 
 
-Guillermo - 1110
-
-
 Ben - 1108
 
 
@@ -89,6 +86,9 @@ David - 1096
 
 
 Alfredo - 1092
+
+
+Guillermo - 1079
 
 
 Anton - 1043
