@@ -10,7 +10,7 @@ Resul - 1538
 Christian - 1491
 
 
-Danial - 1366
+Danial - 1370
 
 
 Javier - 1338
@@ -25,7 +25,7 @@ Fabian - 1291
 Alberto - 1272
 
 
-Andrey - 1259
+Andrey - 1255
 
 
 Guillaume - 1239
