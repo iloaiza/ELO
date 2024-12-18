@@ -4,16 +4,16 @@
 Juan Miguel - 1601
 
 
-Resul - 1538
+Resul - 1570
 
 
-Christian - 1470
-
-
-Danial - 1368
+Christian - 1517
 
 
 Javier - 1338
+
+
+Danial - 1322
 
 
 Xiaochen - 1299
@@ -70,7 +70,7 @@ Daniel - 1146
 Robert - 1143
 
 
-Stepan - 1139
+Stepan - 1130
 
 
 Ignacio - 1110
@@ -79,22 +79,22 @@ Ignacio - 1110
 Ben - 1108
 
 
+Guillermo - 1106
+
+
 Steven - 1102
-
-
-David - 1096
 
 
 Alfredo - 1092
 
 
-Guillermo - 1079
+David - 1051
 
 
 Anton - 1043
 
 
-Jay - 1016
+Jay - 1011
 
 
 Austin - 895
