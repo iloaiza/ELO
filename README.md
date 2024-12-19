@@ -4,16 +4,16 @@
 Juan Miguel - 1601
 
 
-Resul - 1570
+Christian - 1544
 
 
-Christian - 1517
+Resul - 1532
 
 
 Javier - 1338
 
 
-Danial - 1300
+Danial - 1321
 
 
 Xiaochen - 1299
@@ -94,10 +94,10 @@ David - 1051
 Anton - 1043
 
 
-Jay - 1011
+Jay - 1021
 
 
-Austin - 895
+Austin - 874
 
 
 
