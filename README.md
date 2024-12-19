@@ -13,7 +13,7 @@ Christian - 1517
 Javier - 1338
 
 
-Danial - 1322
+Danial - 1300
 
 
 Xiaochen - 1299
@@ -73,13 +73,13 @@ Robert - 1143
 Stepan - 1130
 
 
+Guillermo - 1128
+
+
 Ignacio - 1110
 
 
 Ben - 1108
-
-
-Guillermo - 1106
 
 
 Steven - 1102
