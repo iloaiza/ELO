@@ -4,13 +4,13 @@
 Juan Miguel - 1611
 
 
-Resul - 1496
+Resul - 1527
 
 
 Christian - 1462
 
 
-Danial - 1396
+Danial - 1364
 
 
 Andrey - 1351
