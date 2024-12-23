@@ -10,7 +10,7 @@ Resul - 1496
 Christian - 1462
 
 
-Danial - 1389
+Danial - 1396
 
 
 Andrey - 1351
@@ -73,7 +73,7 @@ Robert - 1143
 Stepan - 1130
 
 
-Guillermo - 1128
+Guillermo - 1121
 
 
 Ignacio - 1110
