@@ -4,13 +4,13 @@
 Juan Miguel - 1611
 
 
-Resul - 1566
+Resul - 1601
 
 
 Christian - 1439
 
 
-Danial - 1387
+Danial - 1363
 
 
 Javier - 1338
@@ -73,7 +73,7 @@ Robert - 1143
 Stepan - 1130
 
 
-Guillermo - 1121
+Guillermo - 1111
 
 
 Ignacio - 1110
