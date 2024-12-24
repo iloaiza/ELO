@@ -207,6 +207,18 @@ def load_data(savename = h5_name):
     fid.close()
 
     
+def late_since_last_game(player):
+    last_date = None
+    for my_set in ALL_SETS:
+        if player == my_set.player_1 or player == my_set.player_2:
+            last_date = my_set.date
+
+    today_datetime = datetime.today()
+    last_datetime = datetime.strptime(last_date, '%Y-%m-%d')
+    diff = today_datetime - last_datetime
+
+    return diff.days
+
 def display_players():
     all_elos = []
     for pp in ALL_PLAYERS:
@@ -215,9 +227,14 @@ def display_players():
 
     print("## LIST OF PLAYERS AND ELO RANKINGS\n\n")
     
+    idx = 1
     for ii in range(len(all_elos)):
-        print(ALL_PLAYERS[order[ii]])
-        print("\n")
+        player_ii = ALL_PLAYERS[order[ii]]
+        days_since_last = late_since_last_game(player_ii)
+        if days_since_last <= 31:
+            print(f'{idx} - {player_ii}')
+            print("\n")
+            idx += 1
 
     print('\n--------------------------------------------------------------')
 
