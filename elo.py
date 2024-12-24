@@ -14,7 +14,7 @@ if num_args == 1:
     print("\n\nPrinting players:")
     display_players()
     print("\nPrinting game history:")
-    for my_set in ALL_SETS:
+    for my_set in ALL_SETS[-10:]:
         print(my_set)
     print("\n")
 else:
