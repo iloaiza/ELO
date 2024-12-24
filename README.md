@@ -4,7 +4,7 @@
 Juan Miguel - 1611
 
 
-Resul - 1601
+Resul - 1610
 
 
 Christian - 1522
@@ -16,10 +16,10 @@ Javier - 1338
 Andrey - 1311
 
 
+Danial - 1301
+
+
 Xiaochen - 1299
-
-
-Danial - 1280
 
 
 Alberto - 1272
@@ -49,9 +49,6 @@ Luiz - 1180
 Mehrdad - 1176
 
 
-Haoyu - 1169
-
-
 Yurii - 1165
 
 
@@ -68,6 +65,9 @@ Daniel - 1146
 
 
 Robert - 1143
+
+
+Haoyu - 1139
 
 
 Stepan - 1130
