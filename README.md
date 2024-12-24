@@ -1,103 +1,67 @@
 ## LIST OF PLAYERS AND ELO RANKINGS
 
 
-Resul - 1612
+1 - Resul - 1612
 
 
-Juan Miguel - 1611
+2 - Juan Miguel - 1611
 
 
-Christian - 1522
+3 - Christian - 1522
 
 
-Javier - 1338
+4 - Javier - 1338
 
 
-Andrey - 1311
+5 - Andrey - 1311
 
 
-Xiaochen - 1299
+6 - Fabian - 1264
 
 
-Alberto - 1272
+7 - Danial - 1257
 
 
-Fabian - 1264
+8 - Guillaume - 1239
 
 
-Danial - 1257
+9 - Soran - 1186
 
 
-Guillaume - 1239
+10 - Matt - 1183
 
 
-Jose - 1215
+11 - Haoyu - 1181
 
 
-Ozcan - 1187
+12 - Alain - 1155
 
 
-Soran - 1186
+13 - Stepan - 1130
 
 
-Matt - 1183
+14 - Guillermo - 1111
 
 
-Haoyu - 1181
+15 - Ignacio - 1110
 
 
-Luiz - 1180
+16 - Ben - 1108
 
 
-Mehrdad - 1176
+17 - Steven - 1102
 
 
-Yurii - 1165
+18 - David - 1051
 
 
-Jack - 1159
+19 - Anton - 1043
 
 
-Alain - 1155
+20 - Jay - 1021
 
 
-Mikhail - 1153
-
-
-Daniel - 1146
-
-
-Robert - 1143
-
-
-Stepan - 1130
-
-
-Guillermo - 1111
-
-
-Ignacio - 1110
-
-
-Ben - 1108
-
-
-Steven - 1102
-
-
-Alfredo - 1092
-
-
-David - 1051
-
-
-Anton - 1043
-
-
-Jay - 1021
-
-
-Austin - 874
+21 - Austin - 874
 
 
 
