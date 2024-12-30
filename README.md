@@ -16,10 +16,10 @@
 5 - Andrey - 1311
 
 
-6 - Fabian - 1264
+6 - Danial - 1279
 
 
-7 - Danial - 1257
+7 - Fabian - 1264
 
 
 8 - Guillaume - 1239
@@ -40,7 +40,7 @@
 13 - Stepan - 1130
 
 
-14 - Guillermo - 1111
+14 - Guillermo - 1116
 
 
 15 - Ignacio - 1110
@@ -55,10 +55,10 @@
 18 - David - 1051
 
 
-19 - Anton - 1043
+19 - Jay - 1021
 
 
-20 - Jay - 1021
+20 - Anton - 1016
 
 
 21 - Austin - 874
