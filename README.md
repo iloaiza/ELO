@@ -7,10 +7,10 @@
 2 - Juan Miguel - 1611
 
 
-3 - Christian - 1463
+3 - Danial - 1441
 
 
-4 - Danial - 1356
+4 - Christian - 1404
 
 
 5 - Javier - 1338
@@ -34,16 +34,16 @@
 11 - Stepan - 1130
 
 
-12 - Haoyu - 1122
+12 - Ignacio - 1110
 
 
-13 - Ignacio - 1110
+13 - Ben - 1108
 
 
-14 - Ben - 1108
+14 - Steven - 1102
 
 
-15 - Steven - 1102
+15 - Haoyu - 1095
 
 
 16 - Guillermo - 1091
