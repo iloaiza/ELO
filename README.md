@@ -1,10 +1,10 @@
 ## LIST OF PLAYERS AND ELO RANKINGS
 
 
-1 - Resul - 1441
+1 - Resul - 1487
 
 
-2 - Danial - 1401
+2 - Danial - 1355
 
 
 3 - Juan Miguel - 1315
