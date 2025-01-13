@@ -4,7 +4,7 @@
 1 - Resul - 1441
 
 
-2 - Danial - 1387
+2 - Danial - 1401
 
 
 3 - Juan Miguel - 1315
@@ -37,7 +37,7 @@
 12 - Fabian - 1112
 
 
-13 - Guillermo - 1036
+13 - Guillermo - 1022
 
 
 
