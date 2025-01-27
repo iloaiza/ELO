@@ -16,31 +16,31 @@
 5 - Xiaochen - 1260
 
 
-6 - Danial - 1230
+6 - Guillermo - 1189
 
 
 7 - Soran - 1189
 
 
-8 - Daniel - 1178
+8 - Danial - 1183
 
 
-9 - Anton - 1164
+9 - Daniel - 1178
 
 
-10 - Austin - 1157
+10 - Anton - 1164
 
 
-11 - Alfred - 1149
+11 - Austin - 1157
 
 
-12 - Haoyu - 1147
+12 - Alfred - 1149
 
 
-13 - Andrey - 1146
+13 - Haoyu - 1147
 
 
-14 - Guillermo - 1141
+14 - Andrey - 1146
 
 
 15 - Jay - 1139
