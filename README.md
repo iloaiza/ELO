@@ -22,25 +22,25 @@
 7 - Daniel - 1178
 
 
-8 - Anton - 1164
+8 - Danial - 1173
 
 
-9 - Guillermo - 1157
+9 - Anton - 1164
 
 
 10 - Austin - 1157
 
 
-11 - Danial - 1153
+11 - Alfred - 1149
 
 
-12 - Alfred - 1149
+12 - Haoyu - 1147
 
 
-13 - Haoyu - 1147
+13 - Andrey - 1146
 
 
-14 - Andrey - 1146
+14 - Guillermo - 1137
 
 
 15 - Jay - 1114
