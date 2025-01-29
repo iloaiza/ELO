@@ -4,7 +4,7 @@
 1 - Resul - 1451
 
 
-2 - Juan Miguel - 1315
+2 - Juan Miguel - 1401
 
 
 3 - Javier - 1275
@@ -16,22 +16,22 @@
 5 - Xiaochen - 1260
 
 
-6 - Guillermo - 1189
+6 - Soran - 1189
 
 
-7 - Soran - 1189
+7 - Daniel - 1178
 
 
-8 - Danial - 1183
+8 - Anton - 1164
 
 
-9 - Daniel - 1178
+9 - Guillermo - 1157
 
 
-10 - Anton - 1164
+10 - Austin - 1157
 
 
-11 - Austin - 1157
+11 - Danial - 1153
 
 
 12 - Alfred - 1149
@@ -43,7 +43,7 @@
 14 - Andrey - 1146
 
 
-15 - Jay - 1139
+15 - Jay - 1114
 
 
 16 - Fabian - 1112
