@@ -1,10 +1,10 @@
 ## LIST OF PLAYERS AND ELO RANKINGS
 
 
-1 - Resul - 1451
+1 - Juan Miguel - 1401
 
 
-2 - Juan Miguel - 1401
+2 - Resul - 1354
 
 
 3 - Javier - 1275
@@ -16,37 +16,37 @@
 5 - Xiaochen - 1260
 
 
-6 - Soran - 1189
+6 - Danial - 1226
 
 
-7 - Daniel - 1178
+7 - Guillermo - 1204
 
 
-8 - Danial - 1173
+8 - Soran - 1189
 
 
-9 - Anton - 1164
+9 - Daniel - 1178
 
 
-10 - Austin - 1157
+10 - Anton - 1164
 
 
-11 - Alfred - 1149
+11 - Austin - 1157
 
 
-12 - Haoyu - 1147
+12 - Alfred - 1149
 
 
-13 - Andrey - 1146
+13 - Haoyu - 1147
 
 
-14 - Guillermo - 1137
+14 - Andrey - 1146
 
 
-15 - Jay - 1114
+15 - Fabian - 1112
 
 
-16 - Fabian - 1112
+16 - Jay - 1092
 
 
 17 - David - 1077
