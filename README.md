@@ -22,34 +22,25 @@
 7 - Soran - 1189
 
 
-8 - Daniel - 1178
+8 - Fabian - 1175
 
 
-9 - Fabian - 1175
+9 - Haoyu - 1160
 
 
-10 - Anton - 1164
+10 - Alfred - 1114
 
 
-11 - Haoyu - 1160
+11 - Guillermo - 1108
 
 
-12 - Andrey - 1146
+12 - Jay - 1098
 
 
-13 - Alfred - 1114
+13 - Austin - 1088
 
 
-14 - Guillermo - 1108
-
-
-15 - Jay - 1098
-
-
-16 - Austin - 1088
-
-
-17 - David - 1077
+14 - David - 1077
 
 
 
