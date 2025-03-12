@@ -7,7 +7,7 @@
 2 - Juan Miguel - 1495
 
 
-3 - Danial - 1368
+3 - Danial - 1369
 
 
 4 - Javier - 1272
@@ -25,7 +25,7 @@
 8 - Ignacio - 1116
 
 
-9 - Guillermo - 1112
+9 - Guillermo - 1111
 
 
 10 - Alfred - 1106
