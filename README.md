@@ -22,13 +22,19 @@
 7 - Jay - 1135
 
 
-8 - Ambar - 1068
+8 - Haoyu - 1125
 
 
-9 - David - 1067
+9 - Ignacio - 1116
 
 
-10 - Austin - 944
+10 - Ambar - 1068
+
+
+11 - David - 1067
+
+
+12 - Austin - 944
 
 
 
