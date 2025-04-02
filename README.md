@@ -4,37 +4,31 @@
 1 - Resul - 1546
 
 
-2 - Juan Miguel - 1495
+2 - Juan Miguel - 1537
 
 
-3 - Danial - 1274
+3 - Danial - 1301
 
 
-4 - Javier - 1272
+4 - Andrey - 1198
 
 
-5 - Andrey - 1198
+5 - Guillermo - 1196
 
 
-6 - Guillermo - 1148
+6 - James - 1164
 
 
-7 - Haoyu - 1125
+7 - Jay - 1135
 
 
-8 - Jay - 1123
+8 - Ambar - 1068
 
 
-9 - Ignacio - 1116
+9 - David - 1067
 
 
-10 - Alfred - 1106
-
-
-11 - David - 1086
-
-
-12 - Ambar - 1068
+10 - Austin - 944
 
 
 
