@@ -13,16 +13,16 @@
 4 - Alberto - 1307
 
 
-5 - Paarth - 1298
+5 - Paarth - 1259
 
 
-6 - Xiaochen - 1247
+6 - Danial - 1254
 
 
-7 - Andrey - 1198
+7 - Xiaochen - 1247
 
 
-8 - Danial - 1193
+8 - Andrey - 1198
 
 
 9 - Daniel - 1178
@@ -49,10 +49,10 @@
 16 - Stepan - 1140
 
 
-17 - Ignacio - 1120
+17 - Alfred - 1106
 
 
-18 - Alfred - 1106
+18 - Ignacio - 1098
 
 
 19 - Jay - 1091
