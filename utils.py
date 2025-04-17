@@ -231,10 +231,10 @@ def display_players():
     for ii in range(len(all_elos)):
         player_ii = ALL_PLAYERS[order[ii]]
         days_since_last = late_since_last_game(player_ii)
-        if days_since_last <= 31:
-            print(f'{idx} - {player_ii}')
-            print("\n")
-            idx += 1
+        # if days_since_last <= 31:
+        print(f'{idx} - {player_ii}')
+        print("\n")
+        idx += 1
 
     print('\n--------------------------------------------------------------')
 
