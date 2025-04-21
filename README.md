@@ -13,10 +13,10 @@
 4 - Alberto - 1307
 
 
-5 - Paarth - 1259
+5 - Danial - 1298
 
 
-6 - Danial - 1254
+6 - Paarth - 1259
 
 
 7 - Xiaochen - 1247
@@ -31,22 +31,22 @@
 10 - Fabian - 1175
 
 
-11 - Guillermo - 1174
+11 - Haoyu - 1169
 
 
-12 - Haoyu - 1169
+12 - James - 1164
 
 
-13 - James - 1164
+13 - Anton - 1164
 
 
-14 - Anton - 1164
+14 - Soran - 1150
 
 
-15 - Soran - 1150
+15 - Stepan - 1140
 
 
-16 - Stepan - 1140
+16 - Guillermo - 1130
 
 
 17 - Alfred - 1106
