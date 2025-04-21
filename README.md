@@ -10,10 +10,10 @@
 3 - Javier - 1340
 
 
-4 - Alberto - 1307
+4 - Danial - 1313
 
 
-5 - Danial - 1298
+5 - Alberto - 1307
 
 
 6 - Paarth - 1259
@@ -31,13 +31,13 @@
 10 - Fabian - 1175
 
 
-11 - Haoyu - 1169
+11 - James - 1164
 
 
-12 - James - 1164
+12 - Anton - 1164
 
 
-13 - Anton - 1164
+13 - Haoyu - 1154
 
 
 14 - Soran - 1150
