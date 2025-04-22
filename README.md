@@ -25,43 +25,43 @@
 8 - Andrey - 1198
 
 
-9 - Daniel - 1178
+9 - Guillermo - 1181
 
 
-10 - Fabian - 1175
+10 - Daniel - 1178
 
 
-11 - James - 1164
+11 - Fabian - 1175
 
 
-12 - Anton - 1164
+12 - James - 1164
 
 
-13 - Haoyu - 1154
+13 - Anton - 1164
 
 
-14 - Soran - 1150
+14 - Haoyu - 1154
 
 
-15 - Stepan - 1140
+15 - Soran - 1150
 
 
-16 - Guillermo - 1130
+16 - Stepan - 1140
 
 
 17 - Alfred - 1106
 
 
-18 - Ignacio - 1098
+18 - Jay - 1091
 
 
-19 - Jay - 1091
+19 - David - 1075
 
 
-20 - David - 1075
+20 - Ambar - 1068
 
 
-21 - Ambar - 1068
+21 - Ignacio - 1047
 
 
 22 - Austin - 944
