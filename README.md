@@ -1,10 +1,10 @@
 ## LIST OF PLAYERS AND ELO RANKINGS
 
 
-1 - Juan Miguel - 1568
+1 - Resul - 1572
 
 
-2 - Resul - 1562
+2 - Juan Miguel - 1568
 
 
 3 - Javier - 1340
@@ -61,7 +61,7 @@
 20 - Ambar - 1055
 
 
-21 - Ignacio - 1034
+21 - Ignacio - 1024
 
 
 22 - Austin - 948
