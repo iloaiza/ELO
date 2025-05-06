@@ -10,16 +10,16 @@
 3 - Javier - 1340
 
 
-4 - Danial - 1314
+4 - Alberto - 1307
 
 
-5 - Alberto - 1307
+5 - Paarth - 1280
 
 
-6 - Xiaochen - 1247
+6 - Danial - 1254
 
 
-7 - Paarth - 1219
+7 - Xiaochen - 1247
 
 
 8 - Andrey - 1198
@@ -40,7 +40,7 @@
 13 - Haoyu - 1154
 
 
-14 - Guillermo - 1151
+14 - Jay - 1152
 
 
 15 - Soran - 1150
@@ -49,7 +49,7 @@
 16 - Stepan - 1140
 
 
-17 - Jay - 1117
+17 - Guillermo - 1117
 
 
 18 - Alfred - 1106
