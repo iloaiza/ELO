@@ -10,13 +10,13 @@
 3 - Javier - 1340
 
 
-4 - Alberto - 1307
+4 - Danial - 1309
 
 
-5 - Paarth - 1280
+5 - Alberto - 1307
 
 
-6 - Danial - 1254
+6 - Paarth - 1288
 
 
 7 - Xiaochen - 1247
@@ -31,40 +31,43 @@
 10 - Fabian - 1175
 
 
-11 - James - 1164
+11 - Matt P - 1168
 
 
-12 - Anton - 1164
+12 - James - 1164
 
 
-13 - Haoyu - 1154
+13 - Anton - 1164
 
 
-14 - Jay - 1152
+14 - Haoyu - 1154
 
 
 15 - Soran - 1150
 
 
-16 - Stepan - 1140
+16 - Jay - 1145
 
 
-17 - Guillermo - 1117
+17 - Stepan - 1140
 
 
 18 - Alfred - 1106
 
 
-19 - David - 1101
+19 - Guillermo - 1101
 
 
-20 - Ambar - 1052
+20 - David - 1101
 
 
-21 - Ignacio - 1024
+21 - Ambar - 1052
 
 
-22 - Austin - 948
+22 - Ignacio - 1014
+
+
+23 - Austin - 948
 
 
 
