@@ -214,10 +214,14 @@ def late_since_last_game(player):
             last_date = my_set.date
 
     today_datetime = datetime.today()
-    last_datetime = datetime.strptime(last_date, '%Y-%m-%d')
-    diff = today_datetime - last_datetime
+    if last_date is not None:
+        last_datetime = datetime.strptime(last_date, '%Y-%m-%d')
+        diff = today_datetime - last_datetime
+        days = diff.days
+    else:
+        days = 1111
 
-    return diff.days
+    return days
 
 def display_players():
     all_elos = []
