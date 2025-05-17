@@ -7,13 +7,13 @@
 2 - Resul - 1513
 
 
-3 - Paarth - 1481
+3 - Paarth - 1512
 
 
 4 - Javier - 1368
 
 
-5 - Danial - 1346
+5 - Danial - 1326
 
 
 6 - Alberto - 1307
@@ -67,7 +67,7 @@
 22 - Stepan - 1140
 
 
-23 - Rob - 1130
+23 - Rob - 1118
 
 
 24 - Alfred - 1106
