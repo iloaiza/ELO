@@ -22,10 +22,10 @@
 7 - Guillermo - 1251
 
 
-8 - Lars - 1249
+8 - Xiaochen - 1247
 
 
-9 - Xiaochen - 1247
+9 - Lars - 1246
 
 
 10 - Jay - 1212
@@ -70,7 +70,7 @@
 23 - Francesco - 1130
 
 
-24 - Simone - 1106
+24 - Simone - 1109
 
 
 25 - Alfred - 1106
