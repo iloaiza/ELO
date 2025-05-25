@@ -7,7 +7,7 @@
 2 - Resul - 1543
 
 
-3 - Danial - 1412
+3 - Danial - 1379
 
 
 4 - Javier - 1368
@@ -16,7 +16,7 @@
 5 - Alberto - 1307
 
 
-6 - Paarth - 1257
+6 - Paarth - 1291
 
 
 7 - Guillermo - 1251
