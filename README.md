@@ -7,7 +7,7 @@
 2 - Resul - 1543
 
 
-3 - Danial - 1379
+3 - Danial - 1405
 
 
 4 - Javier - 1368
@@ -16,22 +16,22 @@
 5 - Alberto - 1307
 
 
-6 - Paarth - 1291
+6 - Paarth - 1298
 
 
-7 - Guillermo - 1251
+7 - Xiaochen - 1247
 
 
-8 - Xiaochen - 1247
+8 - Lars - 1246
 
 
-9 - Lars - 1246
+9 - Jay - 1230
 
 
-10 - Jay - 1212
+10 - Andrey - 1198
 
 
-11 - Andrey - 1198
+11 - Guillermo - 1197
 
 
 12 - Matt P - 1186
@@ -76,7 +76,7 @@
 25 - Alfred - 1106
 
 
-26 - David - 1101
+26 - David - 1104
 
 
 27 - Tyler - 1098
