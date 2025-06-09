@@ -4,19 +4,19 @@
 1 - Juan Miguel - 1600
 
 
-2 - Resul - 1543
+2 - Resul - 1508
 
 
-3 - Danial - 1405
+3 - Danial - 1448
 
 
-4 - Javier - 1368
+4 - Paarth - 1378
 
 
-5 - Alberto - 1307
+5 - Javier - 1313
 
 
-6 - Paarth - 1298
+6 - Alberto - 1307
 
 
 7 - Xiaochen - 1247
@@ -25,13 +25,13 @@
 8 - Lars - 1246
 
 
-9 - Jay - 1230
+9 - Jay - 1228
 
 
 10 - Andrey - 1198
 
 
-11 - Guillermo - 1197
+11 - Noro - 1187
 
 
 12 - Matt P - 1186
@@ -58,40 +58,43 @@
 19 - Haoyu - 1154
 
 
-20 - Marc - 1151
+20 - Marc - 1154
 
 
 21 - Soran - 1150
 
 
-22 - Stepan - 1140
+22 - Guillermo - 1141
 
 
-23 - Francesco - 1130
+23 - Stepan - 1140
 
 
-24 - Simone - 1109
+24 - Francesco - 1130
 
 
-25 - Alfred - 1106
+25 - Ambar - 1112
 
 
-26 - David - 1104
+26 - David - 1109
 
 
-27 - Tyler - 1098
+27 - Simone - 1109
 
 
-28 - Ambar - 1093
+28 - Alfred - 1106
 
 
-29 - Rob - 1084
+29 - Tyler - 1098
 
 
-30 - Ignacio - 1070
+30 - Rob - 1084
 
 
-31 - Austin - 948
+31 - Ignacio - 1081
+
+
+32 - Austin - 948
 
 
 
