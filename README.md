@@ -22,10 +22,10 @@
 7 - Xiaochen - 1247
 
 
-8 - Lars - 1246
+8 - Jay - 1247
 
 
-9 - Jay - 1228
+9 - Lars - 1246
 
 
 10 - Andrey - 1198
@@ -91,7 +91,7 @@
 30 - Rob - 1084
 
 
-31 - Ignacio - 1081
+31 - Ignacio - 1062
 
 
 32 - Austin - 948
