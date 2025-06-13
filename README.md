@@ -13,10 +13,10 @@
 4 - Paarth - 1378
 
 
-5 - Javier - 1313
+5 - Alberto - 1307
 
 
-6 - Alberto - 1307
+6 - Andrey - 1272
 
 
 7 - Xiaochen - 1247
@@ -28,7 +28,7 @@
 9 - Lars - 1246
 
 
-10 - Andrey - 1198
+10 - Javier - 1239
 
 
 11 - Noro - 1187
