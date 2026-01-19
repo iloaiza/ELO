@@ -1,7 +1,7 @@
 ## LIST OF PLAYERS AND ELO RANKINGS
 
 
-1 - Christian - 1257
+1 - Christian - 1315
 
 
 2 - Resul - 1256
@@ -16,7 +16,7 @@
 5 - Jasper - 1168
 
 
-6 - Danial - 1162
+6 - Danial - 1104
 
 
 
