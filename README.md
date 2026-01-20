@@ -7,10 +7,10 @@
 2 - Resul - 1256
 
 
-3 - Andrey - 1188
+3 - Juan Miguel - 1229
 
 
-4 - Juan Miguel - 1182
+4 - Andrey - 1188
 
 
 5 - Jasper - 1168
@@ -19,7 +19,7 @@
 6 - Danial - 1164
 
 
-7 - Guillermo - 1127
+7 - Guillermo - 1080
 
 
 
