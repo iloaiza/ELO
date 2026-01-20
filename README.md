@@ -10,13 +10,16 @@
 3 - Andrey - 1188
 
 
-4 - Guillermo - 1169
+4 - Juan Miguel - 1182
 
 
 5 - Jasper - 1168
 
 
-6 - Danial - 1104
+6 - Danial - 1164
+
+
+7 - Guillermo - 1127
 
 
 
