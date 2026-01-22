@@ -10,16 +10,22 @@
 3 - Juan Miguel - 1229
 
 
-4 - Danial - 1198
+4 - Paarth - 1213
 
 
-5 - Andrey - 1175
+5 - David Ittah - 1191
 
 
-6 - Jasper - 1168
+6 - Danial - 1185
 
 
-7 - Guillermo - 1080
+7 - Andrey - 1175
+
+
+8 - Jasper - 1168
+
+
+9 - Guillermo - 1088
 
 
 
