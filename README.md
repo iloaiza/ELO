@@ -1,7 +1,7 @@
 ## LIST OF PLAYERS AND ELO RANKINGS
 
 
-1 - Christian - 1317
+1 - Christian - 1335
 
 
 2 - Resul - 1256
@@ -10,7 +10,7 @@
 3 - Juan Miguel - 1229
 
 
-4 - Paarth - 1213
+4 - Paarth - 1215
 
 
 5 - David Ittah - 1191
@@ -25,7 +25,7 @@
 8 - Danial - 1162
 
 
-9 - Guillermo - 1088
+9 - Guillermo - 1068
 
 
 
