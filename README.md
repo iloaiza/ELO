@@ -4,28 +4,31 @@
 1 - Christian - 1335
 
 
-2 - Resul - 1251
+2 - Resul - 1328
 
 
-3 - Juan Miguel - 1229
+3 - Danial - 1257
 
 
-4 - Paarth - 1220
+4 - Paarth - 1241
 
 
-5 - David Ittah - 1191
+5 - Juan Miguel - 1229
 
 
-6 - Andrey - 1175
+6 - David Ittah - 1191
 
 
-7 - Jasper - 1168
+7 - Andrey - 1175
 
 
-8 - Danial - 1162
+8 - Pasha - 1088
 
 
-9 - Guillermo - 1068
+9 - Jasper - 1086
+
+
+10 - Guillermo - 1068
 
 
 
