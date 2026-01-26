@@ -7,10 +7,10 @@
 2 - Resul - 1328
 
 
-3 - Danial - 1257
+3 - Danial - 1259
 
 
-4 - Paarth - 1241
+4 - Paarth - 1256
 
 
 5 - Juan Miguel - 1229
@@ -28,7 +28,7 @@
 9 - Jasper - 1086
 
 
-10 - Guillermo - 1068
+10 - Guillermo - 1052
 
 
 
